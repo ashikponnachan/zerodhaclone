@@ -1,0 +1,66 @@
+.img-num{
+    width: 11.5cm;
+}
+.header{
+    font-size: 3rem;
+}
+.sub-note{
+    font-size: 21px;
+    font-weight:400;
+}
+.btnclass{
+    background-color: #387ed1;
+
+}
+.btnclass:hover{
+    background-color: black;
+}
+.img-hover:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+.anchor1{
+    color: #387ed1;
+}
+.anchor1:hover{
+    color: black;
+}
+.anchor2{
+    color: #387ed1;
+}
+.anchor2:hover{
+    color: black;
+}
+.anchor3{
+    color: #387ed1;
+}
+.anchor3:hover{
+    color: black;
+}
+.anchor4{
+    color: #387ed1;
+}
+.anchor4:hover{
+    color: black;
+}
+.footertable{
+    color: #666;
+    font-size: 1.1rem;
+    font-weight:500;
+}
+.footertable:hover{
+    cursor: pointer;
+    color:#387ed1;
+}
+.anchor:hover{
+    color: black;
+}
+.watermark{
+    font-size: 12px;
+}
+.link-a h6:hover{
+    color: #0d6efd;
+}
+.logo svg:hover{
+    color: #0d6efd;
+}
